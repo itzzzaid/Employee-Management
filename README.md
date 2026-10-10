@@ -120,8 +120,7 @@ MongoDB Atlas
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/itzzzaid/Employee-Management.git
-cd Employee-Management
+git clone https://github.com/zaid-works/Employee-Management.git
 ```
 
 ### 2. Configure the Database
@@ -198,7 +197,7 @@ This project provided practical experience with:
 
 **Mohammad Zaid**
 
-GitHub: [@itzzzaid](https://github.com/itzzzaid)
+GitHub: [@zaid-works](https://github.com/zaid-works)
 
 ---
 
